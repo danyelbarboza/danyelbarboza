@@ -5,7 +5,6 @@
   🎓 Estudante de Engenharia de Software apaixonado por tecnologia, educação e filosofia.<br>
   💻 Focado em desenvolvimento web, APIs e automação.<br>
   📚 Curioso por filmes, línguas, música e fotografia analógica.<br>
-  🚀 Sempre em busca de aprender mais e transformar ideias em projetos reais.
 </p>
 
 <h2>💡 Alguns dos meus interesses</h2>
