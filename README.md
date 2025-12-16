@@ -1,27 +1,20 @@
 
 
 <p align="left">
-  <h2>👋 Olá! Eu sou o Danyel Barboza!</h2>
-  🎓 Estudante de Engenharia de Software apaixonado por tecnologia, educação e filosofia.<br>
-  💻 Focado em desenvolvimento web, APIs e automação.<br>
-  📚 Curioso por filmes, línguas, música e fotografia analógica.<br>
+  <h2>Olá! Eu sou o Danyel Barboza!</h2>
+  🎓 Estudante de Ciência da Computação apaixonado por tecnologia, análise e insights.<br>
+  💻 Focado em processamento, análise e visualização de dados.<br>
 </p>
 
-<h2>💡 Alguns dos meus interesses</h2>
+<h2>Alguns dos meus interesses</h2>
 
 <ul>
-  <li>Desenvolvimento backend com Java e Python</li>
-  <li>Integração e consumo de APIs</li>
-  <li>Design e modelagem de bancos de dados (SQL e NoSQL)</li>
-  <li>Automação de processos e machine learning</li>
-  <li>Arquitetura de software e Cloud Computing</li>
+  <li>Análise e Processamento de Dados com Python</li>
+  <li>Design de Bancos de Dados e Data Warehousing (SQL e NoSQL)</li>
+  <li>Visualização de Dados (Tableau, Power BI)</li>
+  <li>Machine Learning e Modelos Preditivos</li>
+  <li>Engenharia de Dados e Cloud Computing</li>
 </ul>
-
-<h2>✉️ Vamos conversar?</h2>
-
-<p>
-  Me mande uma mensagem no LinkedIn ou confira meus projetos aqui no GitHub! 😄
-</p>
 
 </div>
 <br>
