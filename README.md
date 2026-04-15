@@ -42,6 +42,6 @@ Atuar como Engenheiro de Dados focado em pipelines escaláveis, arquitetura Meda
 ---
 
 ## Contato
-Linkedin: https://www.linkedin.com/in/danyelbarboza/
-Email: dhgbarboza@gmail.com
-GitHub: https://github.com/danyelbarboza
+**LinkedIn:** https://www.linkedin.com/in/danyelbarboza/  
+**Email:** dhgbarboza@gmail.com  
+**GitHub:** https://github.com/danyelbarboza
