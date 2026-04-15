@@ -5,6 +5,7 @@ Engenheiro de Dados | Azure | Databricks | Spark | Python | SQL | Power BI
 <p align="center">
 Transformando volumes massivos de dados brutos em inteligência estratégica
 </p>
+
 ---
 
 ## Sobre mim
