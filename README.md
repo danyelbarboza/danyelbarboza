@@ -1,25 +1,32 @@
-<h1 align="center">Danyel Barboza</h1>
+﻿<h1 align="center">Danyel Barboza</h1>
 <p align="center">
 Engenheiro de Dados | Azure | Databricks | Spark | Python | SQL | Power BI
 </p>
 <p align="center">
-Transformando volumes massivos de dados brutos em inteligência estratégica
+Transformando volumes massivos de dados brutos em inteligencia estrategica
 </p>
 
 ---
 
 ## Sobre mim
-Engenheiro de Dados com sólida experiência na construção de pipelines de ingestão em larga escala e arquitetura de dados moderna. Atualmente no Observatório Findes (Federação das Indústrias do Espírito Santo), projeto fluxos automatizados de web scraping e processamento distribuído utilizando PySpark e Databricks, estruturando o ciclo de vida dos dados sob a Arquitetura Medallion. Especialista no desenvolvimento de conectores de API resilientes e na otimização de ativos analíticos de alta performance para o setor industrial.
+Engenheiro de Dados com solida experiencia na construcao de pipelines de ingestao em larga escala e arquitetura de dados moderna. Atualmente no Observatorio Findes (Federacao das Industrias do Espirito Santo), projeto fluxos automatizados de web scraping e processamento distribuido utilizando PySpark e Databricks, estruturando o ciclo de vida dos dados sob a Arquitetura Medallion. Especialista no desenvolvimento de conectores de API resilientes e na otimizacao de ativos analiticos de alta performance para o setor industrial.
 
 ---
 
 ## Projetos em destaque
-**News Scraper And Sentiment Analysis – Monitoramento de Notícias Brasileiras**
+**News Scraper And Sentiment Analysis - Monitoramento de Noticias Brasileiras**
 
-Ferramenta de web scraping desenvolvida em Python para monitorar, coletar e analisar notícias de diversos portais brasileiros. O sistema extrai artigos completos, realiza análise de sentimento com modelos de IA e armazena os dados consolidados em um banco de dados MySQL.
+Ferramenta de web scraping desenvolvida em Python para monitorar, coletar e analisar noticias de diversos portais brasileiros. O sistema extrai artigos completos, realiza analise de sentimento com modelos de IA e armazena os dados consolidados em um banco de dados MySQL.
 
 Acesse o projeto:  
 https://github.com/danyelbarboza/News-Scraper-And-Sentiment-Analysis
+
+**Anki Census - Iniciativa Open Source para Coleta e Analise de Dados no Ecossistema Anki**
+
+Projeto idealizado para estruturar uma iniciativa de coleta e analise de dados voltada ao ecossistema do Anki, com conceito de cliente para add-ons, dados de pesquisa organizados e suporte a pesquisas academicas.
+
+Acesse o projeto:  
+https://github.com/danyelbarboza/anki-census
 
 ---
 
@@ -37,7 +44,7 @@ https://github.com/danyelbarboza/News-Scraper-And-Sentiment-Analysis
 ---
 
 ## Objetivo
-Atuar como Engenheiro de Dados focado em pipelines escaláveis, arquitetura Medallion e soluções API-first, transformando dados brutos em inteligência estratégica com impacto real no setor industrial.
+Atuar como Engenheiro de Dados focado em pipelines escalaveis, arquitetura Medallion e solucoes API-first, transformando dados brutos em inteligencia estrategica com impacto real no setor industrial.
 
 ---
 
