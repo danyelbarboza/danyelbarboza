@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  Building reliable data platforms, reproducible pipelines, and trustworthy analytical data products.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/danyelbarboza/">LinkedIn</a> ·
   <a href="mailto:dhgbarboza@gmail.com">Email</a> ·
   <a href="https://github.com/danyelbarboza?tab=repositories">Repositories</a>
