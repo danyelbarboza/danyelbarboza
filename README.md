@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>Data Engineer at Grupo Águia Branca</strong><br>
-  Databricks · PySpark · SQL · Microsoft Fabric · Data Modeling · Data Quality
+  Databricks · PySpark · SQL · Unity Catalog · Microsoft Fabric · Data Modeling · Data Quality
 </p>
 
 <p align="center">
-  Building reliable data products, reproducible pipelines, and open-source tools.
+  Building reliable data platforms, reproducible pipelines, and trustworthy analytical data products.
 </p>
 
 <p align="center">
@@ -19,24 +19,38 @@
 
 ## About me
 
-I am a Data Engineer working in the **Commerce Division of Grupo Águia Branca**, where I help develop, maintain, and evolve enterprise data products.
+I am a Data Engineer working in the **Commerce Division of Grupo Águia Branca**, where I help develop, maintain, and evolve enterprise data products and data-platform workloads.
 
 My current work includes:
 
 - designing and maintaining data pipelines with **Databricks, PySpark, and SQL**;
-- developing analytical data models and curated data layers;
-- validating schemas, keys, relationships, duplicates, and business rules;
-- improving data quality, documentation, governance, and pipeline reliability;
+- developing curated data layers and analytical models using lakehouse and medallion architecture patterns;
+- validating schemas, keys, relationships, duplicates, reconciliations, and business rules;
+- improving data quality, governance, documentation, observability, and pipeline reliability;
+- working with data assets and governance practices around **Unity Catalog**;
 - delivering analytical assets through **Microsoft Fabric and Power BI**;
 - collaborating through Git, GitHub, code review, CI/CD, and structured development workflows.
 
-I am especially interested in **data modeling, data quality, observability, reliability, DataOps, and modern data-platform architecture**.
+I am especially interested in **data platform engineering, data modeling, data quality, observability, reliability, DataOps, governance, and modern data architecture**.
 
-My academic background combines **Computer Science, Systems Analysis, Data Science, and Philosophy**, connecting technical engineering with research, communication, and critical thinking.
+My academic path combines engineering and research: I am currently pursuing a **Master's in Data Science Applied to Business Intelligence at Universidad Internacional Iberoamericana de México (UNINI México)** and a degree in **Computer Science**, alongside previous studies in **Data Science and Philosophy**.
 
 ---
 
 ## Featured projects
+
+### [PNCP Local-First Data Pipeline](https://github.com/danyelbarboza/pncp-local-first-pipeline)
+
+A local-first data engineering proof of concept built around Brazilian public procurement data from PNCP.
+
+- resilient API ingestion;
+- transformations and modeling with **dbt-core** and **DuckDB**;
+- dimensional modeling with a **star schema**;
+- reproducible execution with **Docker**;
+- data quality gates and integrity checks;
+- architecture designed for reproducible, efficient local processing.
+
+`Python` `SQL` `dbt` `DuckDB` `Docker` `Data Modeling` `Data Quality`
 
 ### [Letterboxd List Toolkit](https://github.com/danyelbarboza/letterboxd-list-toolkit)
 
@@ -55,30 +69,33 @@ A typed Python library and CLI for building validated and reproducible Letterbox
 
 Research infrastructure for evaluating the stability and reliable defect detection of LLM-generated tests for Python data transformations.
 
-The experiment separates operational stability, semantic correctness, false positives, and reliable bug detection across repeated model runs.
+The experiment separates operational stability, semantic correctness, false positives, and reliable bug detection across repeated model runs, with an emphasis on **testing and reliability of data pipelines**.
 
-`Python` `Pandas` `Pytest` `LLM Evaluation` `Experimental Reproducibility`
-
-### [Anki Census](https://github.com/danyelbarboza/anki-census)
-
-An open-source initiative for collecting and organizing research data about the Anki ecosystem, supporting reproducible academic studies and future add-on integrations.
-
-`Python` `Research Data` `Open Source` `Data Collection`
+`Python` `Pandas` `Pytest` `Data Pipeline Testing` `Experimental Reproducibility`
 
 ### [RAIS Employment Analysis — Espírito Santo](https://github.com/danyelbarboza/Analise-Empregos-Rais-ES)
 
 Analysis of formal employment data from RAIS, focused on labor-market patterns in Espírito Santo using public datasets and reproducible analytical workflows.
 
-`Python` `Public Data` `Data Analysis` `Visualization`
+`Python` `Public Data` `Data Analysis` `Reproducible Workflows`
 
 ---
 
 ## Research and community
 
 - Founder and coordinator of **NEPC — Núcleo de Estudos e Pesquisa em Computação**, a community with more than 60 members focused on scientific training and collaborative learning.
-- Research interest: **quality, observability, and reliability of data systems**.
-- Current research work explores how generated test suites behave when applied to correct and intentionally defective data transformations.
-- I enjoy turning practical engineering problems into reproducible experiments, documentation, and reusable tooling.
+- Research interests include **quality, testing, observability, and reliability of data systems**.
+- Current research explores how generated test suites behave when applied to correct and intentionally defective data transformations.
+- I enjoy turning practical data-engineering problems into reproducible experiments, documentation, and reusable tooling.
+
+---
+
+## Education
+
+- **Master's in Data Science Applied to Business Intelligence** — Universidad Internacional Iberoamericana de México (UNINI México), in progress.
+- **Computer Science** — undergraduate degree in progress.
+- **Postgraduate specialization in Data Science**.
+- **Licentiate degree in Philosophy**.
 
 ---
 
@@ -91,6 +108,8 @@ Analysis of formal employment data from RAIS, focused on labor-market patterns i
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
@@ -99,6 +118,7 @@ Analysis of formal employment data from RAIS, focused on labor-market patterns i
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
@@ -106,14 +126,14 @@ Analysis of formal employment data from RAIS, focused on labor-market patterns i
   <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logoColor=white" alt="CI/CD"/>
 </p>
 
-### Additional experience
+### Engineering focus
 
-`APIs` · `Web Scraping` · `Data Modeling` · `Medallion Architecture` · `Data Quality` · `Data Governance` · `NLP` · `scikit-learn` · `spaCy` · `BERT-based models`
+`Data Pipelines` · `Data Modeling` · `Medallion Architecture` · `Star Schema` · `Data Quality` · `Data Governance` · `Unity Catalog` · `Data Observability` · `DataOps` · `APIs` · `Web Scraping`
 
 ---
 
 ## What I am building toward
 
-I am developing deeper expertise in the design of reliable data platforms: systems with clear models, observable pipelines, strong validation, maintainable code, and trustworthy analytical outputs.
+I am developing deeper expertise in **data platform engineering and architecture**: designing systems with clear models, observable pipelines, strong validation, scalable processing, maintainable code, governed data assets, and trustworthy analytical outputs.
 
-I am also interested in collaborating on open-source projects involving **data engineering, research tooling, data quality, and Python libraries**.
+I am also interested in collaborating on open-source projects involving **data engineering, data infrastructure, data quality, research tooling, and Python libraries**.
